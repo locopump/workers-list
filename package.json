@@ -1,0 +1,19 @@
+{
+  "name": "@locopump/workers-list",
+  "version": "1.0.0-rc.1",
+  "description": "Table with some properties to renderize",
+  "main": "index.js",
+  "files": [
+    "/src/",
+    "*.js"
+  ],
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.1.34"
+  },
+  "dependencies": {
+    "lit": "^2.3.1"
+  }
+}

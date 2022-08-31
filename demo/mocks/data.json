@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "nombre": "Juan",
+      "apellido": "Gutierez Troncoso",
+      "nivelNeoris": "SR",
+      "nivelCliente": "SR",
+      "codigoCliente": "XP62326"
+    },
+    {
+      "nombre": "Augusto",
+      "apellido": "Cáceres Puma",
+      "nivelNeoris": "SR",
+      "nivelCliente": "SR",
+      "codigoCliente": "XP66181"
+    },
+    {
+      "nombre": "Diana",
+      "apellido": "Chipana Minaya",
+      "nivelNeoris": "SR",
+      "nivelCliente": "SR",
+      "codigoCliente": "XP65871"
+    },
+    {
+      "nombre": "Alexandra",
+      "apellido": "Quinde Díaz",
+      "nivelNeoris": "SR",
+      "nivelCliente": "SR",
+      "codigoCliente": "XP65261"
+    }
+  ]
+}

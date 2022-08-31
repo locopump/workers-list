@@ -1,0 +1,1 @@
+export { WorkersList } from './src/WorkersList.js';
